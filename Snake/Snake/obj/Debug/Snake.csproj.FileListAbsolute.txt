@@ -12,3 +12,10 @@ D:\Работа\MY-PROJECT-GIT\Snake\Snake\obj\Debug\Snake.csprojAssemblyReferen
 D:\Работа\MY-PROJECT-GIT\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 D:\Работа\MY-PROJECT-GIT\Snake\Snake\obj\Debug\Snake.exe
 D:\Работа\MY-PROJECT-GIT\Snake\Snake\obj\Debug\Snake.pdb
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\bin\Debug\Snake.exe
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\bin\Debug\Snake.pdb
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\obj\Debug\Snake.exe
+D:\Работа\MY-PROJECT-GIT\SNAKE\Snake\Snake\obj\Debug\Snake.pdb
