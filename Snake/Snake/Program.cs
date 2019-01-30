@@ -28,4 +28,4 @@ namespace Snake
             Console.Write(sym);
         }
     }
-}
+}1
